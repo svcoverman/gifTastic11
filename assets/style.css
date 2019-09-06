@@ -1,0 +1,19 @@
+/* Bootstrap */
+
+
+/* Raw CSS */
+body {
+  background-image: url("racetrack.png");
+  background-repeat: repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  }
+.ratings {
+  color: white;
+  text-decoration: underline;
+  text-transform: capitalize;
+}
+h1{
+  color: white;
+}
+
